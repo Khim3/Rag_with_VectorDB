@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+seaborn
+datasets
+transformers
+accelerate
+sentence-transformers
+pymongo
+torch
